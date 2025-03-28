@@ -1,28 +1,45 @@
-# Hello! I'm Caio Nascimento Battista 👋
+<h1 align="left">Hello. I'm Caio Nascimento Battista</h1>
 
-Welcome to my GitHub profile! Here, you'll find some of my projects and contributions. I'm passionate about technology, software development, and continuous learning.
+###
 
-## 🧑‍💻 About Me
+<p align="left">Welcome to my GitHub profile! Here, you'll find some of my projects and contributions. I'm passionate about technology, software development, and continuous learning.</p>
 
-- 🎓 **Software Engineering** student at **FIAP (Faculdade de Informática e Administração Paulista)**
-- 💻 Developer with experience in:
-  - **Web Development**: HTML, CSS, JavaScript, Node.js, Bootstrap, Sass, jQuery
-  - **Version Control**: Git and GitHub
-- 🚀 Currently expanding my skills in:
-  - **Data Science & Analysis**: Python (NumPy, Pandas, Matplotlib, Streamlit)
-  - **Databases**: SQL
-  - **Data Visualization**: Power BI, Geopandas, Folium
-- 📫 Reach me at: [caio.caiobattista@outlook.com](mailto:caio.caiobattista@outlook.com)
+###
 
----
+<h2 align="left">About Me</h2>
 
-## 🌐 Social Media
+###
 
-You can find me on the following platforms:
+<h4 align="left">🎓 Software Engineering student at FIAP (Faculdade de Informática e Administração Paulista)</h4>
 
-- [LinkedIn](https://www.linkedin.com/in/caio-nascimento-battista)
-- [Instagram](https://www.instagram.com/caio_battista)
+###
 
----
+<br clear="both">
 
-Thanks for visiting my profile! 😊
+<h4 align="left">💻 Developer with experience in:<br>- Web Development: HTML, CSS, JavaScript, Node.js, Bootstrap, Sass, jQuery<br>- Version Control: Git and GitHub</h4>
+
+###
+
+<br clear="both">
+
+<h4 align="left">🚀 Currently expanding my skills in:<br>- Data Science & Analysis: Python (NumPy, Pandas, Matplotlib, Streamlit)<br>- Databases: SQL<br>- Data Visualization: Power BI, Geopandas, Folium</h4>
+
+###
+
+<br clear="both">
+
+<h4 align="left">📫 Reach me at: caio.caiobattista@outlook.com</h4>
+
+###
+
+<h2 align="left">Follow me !</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/cnbtt/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
