@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg"  />
+  <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg"  />
 </div>
 
 ###
