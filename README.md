@@ -10,29 +10,15 @@
 
 ###
 
-<h4 align="left">🎓 Software Engineering student at FIAP (Faculdade de Informática e Administração Paulista)</h4>
+<h4 align="left">🎓 Software Engineering student at FIAP (Faculdade de Informática e Administração Paulista)<br><br>💻 Developer with experience in:<br>- Web Development: HTML, CSS, JavaScript, Node.js, Bootstrap, Sass, jQuery<br>- Version Control: Git and GitHub<br><br>🚀 Currently expanding my skills in:<br>- Data Science & Analysis: Python (NumPy, Pandas, Matplotlib, Streamlit)<br>- Databases: SQL<br>- Data Visualization: Power BI, Geopandas, Folium<br><br>📫 Reach me at: caio.caiobattista@outlook.com</h4>
 
 ###
 
-<br clear="both">
-
-<h4 align="left">💻 Developer with experience in:<br>- Web Development: HTML, CSS, JavaScript, Node.js, Bootstrap, Sass, jQuery<br>- Version Control: Git and GitHub</h4>
+<h2 align="left"></h2>
 
 ###
 
-<br clear="both">
-
-<h4 align="left">🚀 Currently expanding my skills in:<br>- Data Science & Analysis: Python (NumPy, Pandas, Matplotlib, Streamlit)<br>- Databases: SQL<br>- Data Visualization: Power BI, Geopandas, Folium</h4>
-
-###
-
-<br clear="both">
-
-<h4 align="left">📫 Reach me at: caio.caiobattista@outlook.com</h4>
-
-###
-
-<h2 align="left">Follow me !</h2>
+<h3 align="left">Follow me !</h3>
 
 ###
 
