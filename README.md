@@ -1,3 +1,25 @@
+<h1 align="left">Hello. I'm Caio Nascimento Battista</h1>
+
+###
+
+<p align="left">Welcome to my GitHub profile! Here, you'll find some of my projects and contributions. I'm passionate about technology, software development, and continuous learning.</p>
+
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<h2 align="left">🎓 Software Engineering student at FIAP (Faculdade de Informática e Administração Paulista)</h2>
+
+###
+
+<div align="center">
+  <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg"  />
+</div>
+
+###
+
 <h2 align="left">💻 Developer with experience in:</h2>
 
 ### Front-End:
@@ -58,4 +80,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+</div>
+
+###
+
+<h2 align="left">📫 Reach me at: caio.caiobattista@outlook.com</h2>
+
+###
+
+<h2 align="left">Follow me!</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/cnbtt/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
