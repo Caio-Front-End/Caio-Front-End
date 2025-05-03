@@ -9,23 +9,20 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  🎓 I'm currently a Software Engineering student at FIAP (Faculdade de Informática e Administração Paulista).<br><br>
-  🚀 I’m passionate about technology, development, and continuous learning.<br><br>
-  👨‍💻 I love solving problems, building real-world applications, and turning ideas into code.<br><br>
-  🌍 I'm always curious about how systems work and how to make them better. Whether it's Front-end or Back-end, I'm constantly learning and improving.<br><br>
-  🤝 I believe in collaboration, clear communication, and sharing knowledge as a way to grow.<br><br>
-  💬 I speak Portuguese (native) and English (intermediate to advanced).
+  🎓 I'm currently a <strong>Software Engineering student</strong> at FIAP (Faculdade de Informática e Administração Paulista).
 </p>
 
-###
-
-<h2 align="left">🎓 Software Engineering student at FIAP (Faculdade de Informática e Administração Paulista)</h2>
-
-###
-
-<div align="center">
-  <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg"  />
+<div align="left">
+  <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg" />
 </div>
+
+<p align="left">
+  🚀 Passionate about technology, development, and continuous learning.<br><br>
+  👨‍💻 I enjoy solving real-world problems, turning ideas into functional code, and working on both Front-end and Back-end projects.<br><br>
+  🌍 Curious by nature — I like to understand how systems work and how to improve them.<br><br>
+  🤝 I believe in collaboration, knowledge sharing, and good communication as key tools for personal and professional growth.<br><br>
+  💬 I speak Portuguese (native) and English (intermediate to advanced).
+</p>
 
 ###
 
