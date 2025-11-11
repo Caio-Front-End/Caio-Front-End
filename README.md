@@ -4,7 +4,7 @@
 
 <p align="left">
   Welcome to my GitHub profile! Here, you'll find some of my projects and contributions.<br />
-  I'm a Software Engineering student passionate about building impactful solutions and continuously improving technical and collaborative skills.
+  I'm a Software Engineering student engaged about the process of building impactful solutions and continuously improving technical and collaborative skills.
 </p>
 
 ###
